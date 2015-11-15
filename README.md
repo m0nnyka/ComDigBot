@@ -1,3 +1,0 @@
-# ComDigBot
-Comunicazione Digiale UniMi
-
